@@ -1,4 +1,4 @@
-'batchData' : [
+{"batchData" : [
     {
         "batchName": "ACINF",
         "batchStatus": "COMPLETED",
@@ -42,3 +42,4 @@
         "startTime": "2023-06-13T19:25:52.185-07:00"
     }
 ]
+}
